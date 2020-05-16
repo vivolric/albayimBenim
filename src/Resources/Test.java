@@ -16,3 +16,7 @@ public class Test {
     }
 
 }
+
+
+// I see 3 options (Git, Subversion, Mercurial)
+// when I tried to setup the GitHub. Are those totally different than GitHub?
