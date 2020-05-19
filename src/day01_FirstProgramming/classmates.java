@@ -14,6 +14,8 @@ public class classmates {
 
         System.out.println("Zeynep Dere");
 
+        System.out.println("Ali Aslan");
+
     }
 
 
